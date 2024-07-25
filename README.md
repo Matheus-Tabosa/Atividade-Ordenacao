@@ -32,16 +32,26 @@ Saída: Imprime uma tabela no console com os tempos de execução de todos os ca
 
 Insertion x Selection
 num.1000.1.in: 0.00094     0.00124
+
 num.1000.2.in: 0.00065     0.00155
 num.1000.3.in: 0.00064     0.00123
+
 num.1000.4.in: 0.00064     0.00141
+
 num.10000.1.in: 0.09160     0.15639
+
 num.10000.2.in: 0.08055     0.12119
+
 num.10000.3.in: 0.07112     0.12049
+
 num.10000.4.in: 0.07541     0.12927
+
 num.100000.1.in: 9.66665     14.20567
+
 num.100000.2.in: 8.88193     14.63092
+
 num.100000.3.in: 8.41695     15.07896
+
 num.100000.4.in: 7.92914     14.69483
 
 COMO COMPILAR
