@@ -22,7 +22,7 @@ Saída: Imprime o tempo de execução de ambos os algoritmos para o console, per
 ./ordenacoes.exe num.1000.1.in
 
 Insertion x Selection
-0.00070     0.00168
+0.00070  X   0.00168
 
 main.exe
 
@@ -31,28 +31,30 @@ Saída: Imprime uma tabela no console com os tempos de execução de todos os ca
 ./main.exe
 
 Insertion x Selection
-num.1000.1.in: 0.00094     0.00124
 
-num.1000.2.in: 0.00065     0.00155
-num.1000.3.in: 0.00064     0.00123
+num.1000.1.in: 0.00094  X   0.00124
 
-num.1000.4.in: 0.00064     0.00141
+num.1000.2.in: 0.00065  X   0.00155
 
-num.10000.1.in: 0.09160     0.15639
+num.1000.3.in: 0.00064  X   0.00123
 
-num.10000.2.in: 0.08055     0.12119
+num.1000.4.in: 0.00064  X   0.00141
 
-num.10000.3.in: 0.07112     0.12049
+num.10000.1.in: 0.09160  X   0.15639
 
-num.10000.4.in: 0.07541     0.12927
+num.10000.2.in: 0.08055  X   0.12119
 
-num.100000.1.in: 9.66665     14.20567
+num.10000.3.in: 0.07112  X   0.12049
 
-num.100000.2.in: 8.88193     14.63092
+num.10000.4.in: 0.07541  X   0.12927
 
-num.100000.3.in: 8.41695     15.07896
+num.100000.1.in: 9.66665  X   14.20567
 
-num.100000.4.in: 7.92914     14.69483
+num.100000.2.in: 8.88193  X   14.63092
+
+num.100000.3.in: 8.41695  X   15.07896
+
+num.100000.4.in: 7.92914  X   14.69483
 
 COMO COMPILAR
 Para compilar os programas, use o make com o Makefile fornecido. Execute o comando a seguir no terminal no diretório onde o Makefile está localizado:
